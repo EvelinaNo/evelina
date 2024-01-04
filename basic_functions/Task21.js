@@ -1,5 +1,5 @@
 function findStringLength (inputString) {
-    return inputString.length
+    return inputString.length;
 }
 
 const stringLength = findStringLength("Hello, World!");
